@@ -2,7 +2,7 @@ h1. Dropbox Automator Actions
 
 |*AUTHOR*||Mike Green|
 |*COPYRIGHT*||Copyright (C) 2009, Mike Green|
-|*LICENSE*||"MIT License":http://github.com/mikedamage/dropbox-automator-actions/|
+|*LICENSE*||"MIT License":http://github.com/mikedamage/dropbox-automator-actions/blob/3124403a12be1ba69fbd2873edf115f69dc2b409/LICENSE|
 
 This repo currently has once action for OS X's Automator that facilitates making symlinks for use with the "Dropbox":http://www.getdropbox.com web service. By making a symlink to a folder inside your Dropbox, it will sync across all the computers you have Dropbox installed on.
 
