@@ -1,0 +1,10 @@
+h1. Dropbox Automator Actions
+
+|*AUTHOR*||Mike Green|
+|*COPYRIGHT*||Copyright (C) 2009, Mike Green|
+|*LICENSE*||"MIT License":http://github.com/mikedamage/dropbox-automator-actions/|
+
+This repo currently has once action for OS X's Automator that facilitates making symlinks for use with the "Dropbox":http://www.getdropbox.com web service. By making a symlink to a folder inside your Dropbox, it will sync across all the computers you have Dropbox installed on.
+
+The Automator action is fairly specific to my office's network setup, but it's pretty easy to customize the script to work with whatever setup you use. It's meant to be used as a Finder contextual menu item, accessed by right clicking on a file.
+
